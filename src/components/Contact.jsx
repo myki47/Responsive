@@ -1,5 +1,4 @@
 import './home.css';
-import { Link } from 'react-router-dom';
 import React from "react";
 
 function Home() {
@@ -27,4 +26,4 @@ function Contact() {
     );
 }
 
-export { Home, Contact };
+export default Contact;
